@@ -39,7 +39,7 @@
     "lodash-unified": "1.0.2",
     "parse-domain": "^7.0.1",
     "react": "18.0.0",
-    "react-dom": "18.0.0",
+    "react-dom": "18.3.1",
     "react-i18next": "^11.17.2",
     "react-use": "^17.4.0",
     "ts-loader": "^9.3.0",
