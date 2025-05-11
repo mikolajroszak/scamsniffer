@@ -28,7 +28,7 @@
     "@holoflows/kit": "^0.9.0",
     "@material-ui/icons": "^4.11.3",
     "@material-ui/styles": "^4.11.5",
-    "@mui/icons-material": "5.8.3",
+    "@mui/icons-material": "5.17.1",
     "@mui/material": "5.8.0",
     "@scamsniffer/detector": "0.0.23",
     "advanced-css-reset": "^1.2.2",
