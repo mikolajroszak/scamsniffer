@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@babel/plugin-syntax-jsx": "^7.17.12",
-    "@babel/runtime": "^7.14.0",
+    "@babel/runtime": "^7.27.0",
     "@emotion/cache": "^11.9.3",
     "@emotion/react": "11.9.0",
     "@emotion/styled": "11.8.1",
